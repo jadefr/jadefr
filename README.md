@@ -1,6 +1,5 @@
 # Hi, I'm Jade 👋
 
-## About Me
 - 🔭 DevOps Engineer building and maintaining containerized infrastructure
 - 🌱 Learning Go
 - 💬 Ask me about Helm charts, Kubernetes deployments, and automation

@@ -1,7 +1,7 @@
 # Hi, I'm Jade 👋
 
 - 🔭 DevOps Engineer building and maintaining containerized infrastructure
-- 💬 Ask me about Helm charts, Kubernetes deployments, and automation
+- 💬 Ask me about Linux, Helm charts, Kubernetes deployments, and automation
 - 📫 Reach me: jadeferreiravieira@gmail.com
  
 ## Tech Stack

@@ -10,9 +10,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-## GitHub Profile Metrics
-This profile repository now includes a GitHub Actions workflow for the Metrics follow-up plugin. After the first run, it will generate a metrics image you can display here.
-
 <!--
 **jadefr/jadefr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

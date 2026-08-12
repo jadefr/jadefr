@@ -10,7 +10,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-## Open Source Highlights
+## Open Source Highlight
 [![VS Code](https://img.shields.io/badge/Merged%20PR-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://github.com/microsoft/vscode/pull/328975)
 
 - 🖱️ **[Alt+click to close other tabs](https://github.com/microsoft/vscode/pull/328975)**: a JetBrains-style shortcut to the VS Code editor, merged into `microsoft/vscode`.

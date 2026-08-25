@@ -14,7 +14,7 @@
 [![VS Code](https://img.shields.io/badge/Merged%20PR-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://github.com/microsoft/vscode/pull/328975)
 
 - 🖱️ **[Alt+click to close other tabs](https://github.com/microsoft/vscode/pull/328975)**: a JetBrains-style shortcut to the VS Code editor, merged into `microsoft/vscode`.
-- - 🛠️ **[Fix file URL to path conversion](https://github.com/microsoft/vscode/pull/328557)**: replaced a fragile string-replace with Node's `fileURLToPath()`, fixing broken TypeScript lib resolution on Windows and for paths with spaces, merged into `microsoft/vscode`.
+- 🛠️ **[Fix file URL to path conversion](https://github.com/microsoft/vscode/pull/328557)**: replaced a fragile string-replace with Node's `fileURLToPath()`, fixing broken TypeScript lib resolution on Windows and for paths with spaces, merged into `microsoft/vscode`.
 
 
 
